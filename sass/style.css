@@ -1,13 +1,9 @@
 /* Global */
-
-$web-font: "Akaya Telivigala", cursive;
-
 .wb-font {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold";
 }
 
 /* Slider */
-
 .carousel-inner,
 .carousel-item {
   height: 100vh;
@@ -18,21 +14,26 @@ $web-font: "Akaya Telivigala", cursive;
   height: 100%;
   object-fit: cover;
 }
+
 .carousel-caption {
   top: 40%;
   bottom: 40%;
 }
+
 .card img {
   width: 100%;
   height: 300px;
   object-fit: cover;
 }
+
 .bgc-1 {
   background-color: #eff2f5;
 }
+
 .container {
   border: none;
 }
+
 .brdc {
   border: none;
 }

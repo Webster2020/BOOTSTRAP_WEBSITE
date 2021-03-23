@@ -1,0 +1,42 @@
+/* Global */
+.wb-font {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold";
+}
+
+/* Slider */
+.carousel-inner,
+.carousel-item {
+  height: 100vh;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.carousel-item img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.carousel-caption {
+  top: 40%;
+  bottom: 40%;
+}
+
+.card img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.bgc-1 {
+  background-color: #eff2f5;
+}
+
+.container {
+  border: none;
+}
+
+.brdc {
+  border: none;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxXQUFBO0FBSUE7RUFDRSwwREFBMEQ7QUNGNUQ7O0FES0EsV0FBQTtBQUVBOztFQUVFLGFBQWE7RUFDYixzRUFBc0U7QUNIeEU7O0FETUE7RUFDRSxZQUFZO0VBQ1osb0JBQWlCO0tBQWpCLGlCQUFpQjtBQ0huQjs7QURLQTtFQUNFLFFBQVE7RUFDUixXQUFXO0FDRmI7O0FESUE7RUFDRSxXQUFXO0VBQ1gsYUFBYTtFQUNiLG9CQUFpQjtLQUFqQixpQkFBaUI7QUNEbkI7O0FER0E7RUFDRSx5QkFBeUI7QUNBM0I7O0FERUE7RUFDRSxZQUFZO0FDQ2Q7O0FEQ0E7RUFDRSxZQUFZO0FDRWQiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
